@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global resets handled in App.jsx GlobalStyles component for runtime injection */
+/* This file is required by Vite/Tailwind but App uses inline styles for portability */
